@@ -14,4 +14,4 @@ When the session is held in an ICTS computer room, a laptop are not required but
 
 ## Colab Links
 The links below point to Notebooks which will open in Google Colab. 
-* [handson Ano Pseudo Encrypt](https://colab.research.google.com/github.com/franklbvp/didactic-dollop/blob/main/python/APE_kookboek.ipynb)
+* [handson Ano Pseudo Encrypt](https://colab.research.google.com/github/franklbvp/didactic-dollop/blob/main/python/APE_kookboek.ipynb)
